@@ -18,7 +18,7 @@ The notebook replaces hardcoded prompts with structured PromptTemplate and ChatP
 
 ## Workflow
 
-User Input → Validation → Template Selection → Prompt Generation → Output
+User Input > Validation > Template Selection > Prompt Generation > Output
 
 ## File
 
